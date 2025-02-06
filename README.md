@@ -1,8 +1,8 @@
 ![](https://upload.wikimedia.org/wikipedia/commons/2/20/Matrix_Digital_rain_banner.gif)
 
 # darkturo's profile
-Back in the day, this `digital rain` (featured on the Matrix) was some sort of an inspiration for me while I swam deep into the guts GNU/Linux, and the world of mkaing software... 
-And to my surprise, not so long ago, I found out that these are actually Japanese suchi recipes! 
+Back in the day, this `digital rain` (featured on The Matrix) was some sort of an inspiration for me while I swam deep into the guts of GNU/Linux... 
+And to my surprise, not so long ago, I found out that these are Japanese sushi recipes! 
 
 <div>
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="17"/>
