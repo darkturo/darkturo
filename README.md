@@ -4,8 +4,11 @@
 
 This was my screen saver back in 1999 when I installed my first GNU/Linux distro. Seeing it always inspired me during those sleepless nights when I worked on my assignments, studied, learned Linux, and worked on my coding projects...
 
-The other day, however, I learned the design behind this iconic image was taken from a Japanese sushi book! How crazy is that? hahaha
-If I had known back then, maybe I would be a sushi chef nowadays ;-)
+The other day, however, I learned that the design behind this iconic image was taken from a Japanese sushi book! How crazy is that? hahaha
+
+If I had known back then, maybe I would be a sushi chef nowadays. 
+
+Never say never... 
 
 <div>
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="17"/>
