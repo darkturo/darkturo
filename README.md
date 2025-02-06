@@ -13,6 +13,9 @@ And to my surprise, not so long ago, I found out that these are Japanese sushi r
 </div>
 
 <!--
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkturo&layout=compact&langs_count=5&theme=codeSTACKr&custom_title=Hmmmm&title_color=e73737&icon_color=e73737&border_color=0e1118&bg_color=0e1118&disable_animations=true" width="30%" alt="darkturo-stats" title="darkturo's langs">
+-->
+<!--
 ![Profile Views](https://komarev.com/ghpvc/?username=darkturo&color=brightgreen&style=flat)
 -->
 ![](https://hit.yhype.me/github/profile?account_id=802710)
